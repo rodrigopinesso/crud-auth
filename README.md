@@ -1,3 +1,7 @@
+Rodrigo Yaedu Pinesso 22014201-2
+Crud Autenticação
+Diagrama de classes está na pasta "diagrama-classe"
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
