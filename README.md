@@ -1,4 +1,3 @@
-Rodrigo Yaedu Pinesso 22014201-2
 Crud Autenticação
 Diagrama de classes está na pasta "diagrama-classe"
 
